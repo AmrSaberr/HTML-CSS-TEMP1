@@ -1,5 +1,3 @@
 # HTML-CSS-TEMP1
-
-##Project Link
-
+## Project Link
 https://amrsaberr.github.io/HTML-CSS-TEMP1/
